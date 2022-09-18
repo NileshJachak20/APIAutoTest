@@ -1,0 +1,27 @@
+{
+  "name": "fancodetest",
+  "version": "1.0.0",
+  "description": "Test Scenario for FanCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "chai": "^3.5.0",
+    "cucumber": "^6.0.7",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "mocha": "^2.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NileshJachak20/fancodeTest.git"
+  },
+  "author": "Nilesh Jachak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NileshJachak20/fancodeTest/issues"
+  },
+  "homepage": "https://github.com/NileshJachak20/fancodeTest#readme"
+}
