@@ -13,3 +13,7 @@ node_modules/mocha/bin/mocha
 OR 
 
 npm test tests/*.js
+
+Added Github Actions for Continues Integration
+#Run build from Action tab
+#build will pass
