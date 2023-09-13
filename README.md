@@ -1,4 +1,4 @@
-# fancodeTest
+# APIAutoTest
 This repository contains the source code for SampleCode . To get started, ensure that you have Node.js installed on your machine. If you haven't already, you can download it here.
 
 Once you have Node.js installed, follow these steps:
